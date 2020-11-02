@@ -27,7 +27,7 @@ Determine what questions and uncertainties are found in the data.
 Evaluate the quality of the model to be tested against a significant portion of the data set not used to train the model (in this case 20% of the dataset).
 
 ### Performance:  
-The model was able to accurately predict a positive result 68% of the time.
+The LogisticRegression model was able to accurately predict a positive result 68% of the time.
 
 Link to Project Presentation
 https://drive.google.com/file/d/1i532oms3TVirPDqHrMx-8FEBEbCKnF9M/view?usp=sharing
